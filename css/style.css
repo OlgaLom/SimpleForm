@@ -1,0 +1,35 @@
+.MainDiv
+{ 
+	margin: auto;
+}
+.hidden
+{
+	display: none;
+}
+.DisplayDiv
+{
+	padding: 1%;
+}
+.FormDiv
+{
+	margin: auto;
+	padding: 1%;
+	text-align: center;
+	border-style: solid;
+    border-width: 1px;
+	width: 30%;
+	height: 50%;
+	box-shadow: 10px 10px 5px grey;
+}
+textarea
+{
+	height: 80px;
+}
+.error
+{
+	border : 1px solid red;
+}
+.modal-open
+{
+	overflow: hidden;
+}
